@@ -3,6 +3,8 @@
 
 Bautista Sanguinetti
 
-SSebastian Arellano
+Sebastian Arellano
 
 Agustin Olita
+
+Mateo Migone
